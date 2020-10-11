@@ -28,7 +28,7 @@
  <li> <p>as required by law, such as to comply with a subpoena, or similar legal process;</p> </li> 
  <li> <p>when we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud, or respond to a&nbsp;government request;</p> </li> 
  <li> <p>with our trusted services providers who work on our behalf, do not have an&nbsp;independent use of the information we disclose to them, and have agreed to adhere&nbsp;to the rules set forth in this privacy statement.</p> </li> 
- <li> <p>if&nbsp;Developer Company Name&nbsp;is involved in a merger, acquisition, or sale of all or a&nbsp;portion of its assets, you will be notified via email and/or a prominent notice on our Web site of any change in ownership or uses of this information, as well as any choices you may have regarding this information.</p> </li> 
+ <li> <p>if&nbsp;FlyingGameStudios&nbsp;is involved in a merger, acquisition, or sale of all or a&nbsp;portion of its assets, you will be notified via email and/or a prominent notice on our Web site of any change in ownership or uses of this information, as well as any choices you may have regarding this information.</p> </li> 
  <li>to advertisers and third party advertising networks and analytics companies as described in the section below</li> 
 </ul> 
 <p>&nbsp;</p> 
@@ -49,7 +49,7 @@
 <p>&nbsp;</p> 
 <h4><strong>Children</strong></h4> 
 <p></p> 
-<p>We do not use the Application to knowingly solicit data from or market to children under the age of 13. If a parent or guardian becomes aware that his or her child has provided us with information without their consent, he or she should contact us at&nbsp;privacy@applicationsite.com. We will delete such information from our files within a reasonable time.</p> 
+<p>We do not use the Application to knowingly solicit data from or market to children under the age of 13. If a parent or guardian becomes aware that his or her child has provided us with information without their consent, he or she should contact us at&nbsp;flyinggamestudios@gmail.com. We will delete such information from our files within a reasonable time.</p> 
 <h4>&nbsp;</h4> 
 <h4><strong>Security</strong></h4> 
 <p></p> 
